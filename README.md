@@ -10,7 +10,8 @@ In deze paper gebruiken ze de volgende methodes:
 - Scale Invariant Feature Transform
 - Spin image
 - Maximum Response of filters 
-- Patch descriptor 
+- Patch descriptor
+
 Ik zal hier (na meer research gedaan te hebben) een selectie van maken of eventueel zelf nog andere methodes bij pakken om te de character te bepalen uit een immage.
 
 Ik heb hiervoor de dataset van de paper gevonden.
