@@ -30,10 +30,10 @@ Week 2:
 Week 3:
 - Extensive research into Shape Contexts.
 - Setting up workspace
-- Start implementing format for algorithm (reading files and allowing space to manipulate them).
 - Potentially revisit planning.
 
 Week 4:
+- Start implementing format for algorithm (reading files and allowing space to manipulate them).
 - Implementation of Shape Contexts.
 - Document experiments and results.
 - Potentially revisit planning.
