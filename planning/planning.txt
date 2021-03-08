@@ -33,24 +33,24 @@ Week 3:
 - Potentially revisit planning.
 
 Week 4:
+- Extensive research into Scale Invariant Feature Transform.
+- Extensive research into Maximum Response of filters.
+- Finish neccicary homework assignments.
+- Potentially revisit planning.
+
+Week 5:
 - Start implementing format for algorithm (reading files and allowing space to manipulate them).
 - Implementation of Shape Contexts.
 - Document experiments and results.
 - Potentially revisit planning.
 
-Week 5:
-- Extensive research into Scale Invariant Feature Transform.
+Week 6:
 - Implementation of Scale Invariant Feature Transform.
 - Document experiments and results.
 - Potentially revisit planning.
 
-Week 6:
-- Extensive research into Maximum Response of filters.
-- Implementation of Maximum Response of filters.
-- Document experiments and results.
-- Potentially revisit planning.
-
 Week 7:
+- Implementation of Maximum Response of filters.
 - Finish potential unfinished buisness.
 - Finalise documentation.
 - Deliver results
